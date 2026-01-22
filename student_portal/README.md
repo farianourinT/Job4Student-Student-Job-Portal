@@ -1,1 +1,1 @@
-# Job4Student: Recruiter–Student Management System
+# Job4Student: Job portal for Students
