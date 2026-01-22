@@ -224,13 +224,4 @@ This project fulfills:
 * AJAX/JSON
 * Feature completeness
 
----
 
-If you want next, I can:
-
-* Add a **short README version for viva**
-* Generate a **submission report PDF**
-* Add **GitHub issue & PR templates**
-* Add **contribution badges**
-
-Just tell me 👍
