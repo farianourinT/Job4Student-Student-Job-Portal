@@ -83,7 +83,7 @@ This project was built to:
 
 ## 🛠 Tech Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Frontend:** HTML5, CSS3, JavaScript
 * **Backend:** PHP 8+
 * **Database:** MySQL
 * **Architecture:** MVC
